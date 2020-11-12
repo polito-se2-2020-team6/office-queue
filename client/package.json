@@ -11,6 +11,8 @@
     "jquery": "^3.5.1",
     "moment": "^2.25.3",
     "react": "^16.13.1",
+    "devextreme": "20.2.3",
+    "devextreme-react": "20.2.3",
     "react-bootstrap": "^1.0.1",
     "react-dom": "^16.13.1",
     "react-router-bootstrap": "^0.25.0",
